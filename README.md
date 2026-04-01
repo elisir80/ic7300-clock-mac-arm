@@ -2,6 +2,8 @@
 
 Questo programma permette di sincronizzare l'orologio interno della radio Icom IC-7300 con l'ora del computer (locale o UTC) tramite il protocollo CI-V su connessione USB.
 
+### [Scarica l'ultima versione / Download Latest Version](https://github.com/elisir80/ic7300-clock-mac-arm/releases/latest)
+
 ### Caratteristiche
 - **Sistema Operativo:** macOS
 - **Architettura:** Apple Silicon (ARM)
