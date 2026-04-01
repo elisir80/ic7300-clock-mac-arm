@@ -33,12 +33,17 @@ Este programa permite sincronizar el reloj interno de la radio Icom IC-7300 con 
 
 ### Installazione / Installation / Instalación / Установка
 
-Scarica il file ZIP, estrai l'applicazione e trascinala nella cartella `/Applications`.
-Download the ZIP file, extract the app, and drag it to the `/Applications` folder.
+- **IT:** Scarica il file ZIP, estrai l'applicazione e trascinala nella cartella `/Applications`.
+- **EN:** Download the ZIP file, extract the app, and drag it to the `/Applications` folder.
+- **ES:** Descargue el archivo ZIP, extraiga la aplicación y arrástrela a la carpeta `/Applications`.
+- **RU:** Загрузите ZIP-архив, извлеките приложение и перетащите его в папку `/Applications`.
 
-#### Risoluzione problemi / Troubleshooting
+#### Risoluzione problemi / Troubleshooting / Resolución de problemas / Поиск и устранение неисправностей
+
 In caso di problemi all'avvio (messaggio "Impossibile aprire l'app"), esegui il seguente comando nel terminale:
 If you encounter issues launching the app (message "App cannot be opened"), run the following command in the terminal:
+En caso de problemas al iniciar (mensaje "No se puede abrir la aplicación"), ejecute el siguiente comando en la terminal:
+Если возникли проблемы с запуском (сообщение «Приложение невозможно открыть»), выполните следующую команду в терминале:
 
 ```bash
 sudo xattr -r -d com.apple.quarantine /Applications/Imposta\ Orologio\ IC-7300.app
