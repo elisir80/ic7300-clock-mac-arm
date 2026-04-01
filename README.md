@@ -46,5 +46,5 @@ En caso de problemas al iniciar (mensaje "No se puede abrir la aplicación"), ej
 Если возникли проблемы с запуском (сообщение «Приложение невозможно открыть»), выполните следующую команду в терминале:
 
 ```bash
-sudo xattr -r -d com.apple.quarantine /Applications/Imposta\ Orologio\ IC-7300.app
+sudo xattr -r -d com.apple.quarantine /Applications/IC7300-Clock-Sync.app
 ```
